@@ -19,6 +19,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CamCaptureActivity"
+            android:label="@string/camCaptureActivity">
+
+            <intent-filter>
+                <action android:name="com.example.searchcam.CamCaptureActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+        </activity>
+
         
         <provider
             android:name="androidx.core.content.FileProvider"
@@ -30,7 +41,10 @@
                 android:resource="@xml/file_paths"/>
 
         </provider>
-        
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
     </application>
 
 </manifest>
