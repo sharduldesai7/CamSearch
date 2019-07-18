@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623094491842",
+    "firebase_url": "https://searchcam-20b42.firebaseio.com",
+    "project_id": "searchcam-20b42",
+    "storage_bucket": "searchcam-20b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623094491842:android:ba21c343607d3877",
+        "android_client_info": {
+          "package_name": "com.example.searchcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623094491842-tr2a09a51o4cpcfc3rsgqf5f6vqh4iv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.searchcam",
+            "certificate_hash": "f8dbe5cdb504402535b49da460dbae2bef940e28"
+          }
+        },
+        {
+          "client_id": "623094491842-b2vd2ks79sd2tqefp81pdgpqa74bkpmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhY8qFolaagzcX2OzKMKy6nrxd7KI1urE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623094491842-b2vd2ks79sd2tqefp81pdgpqa74bkpmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
